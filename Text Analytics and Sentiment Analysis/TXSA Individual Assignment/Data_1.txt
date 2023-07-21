@@ -1,0 +1,5 @@
+It is one thing to automatically detect that a particular word occurs in a text, and to
+display some words that appear in the same context. However, we can also determine
+the location of a word in the text: how many words from the beginning it appears. This
+positional information can be displayed using a dispersion plot. Each stripe represents
+an instance of a word, and each row represents the entire text.
