@@ -9,4 +9,4 @@ Greetings! Within this project folder, you'll find a treasure trove of my past e
 
 🌟 Why Share My Work:
 
-As an advocate for open sharing, I believe in the power of collaboration and knowledge exchange. By showcasing my past projects, I aim to demonstrate my commitment to continuous growth and learning.
+As an advocate for open sharing, I believe in the power of collaboration and knowledge exchange. By showcasing my past projects, I aim to demonstrate my commitment to continuous growth and learning as well as my skills on solving various type of problem on different platform and languages.
